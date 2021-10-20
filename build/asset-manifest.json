@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b5b82e2.chunk.css",
+    "main.js": "/static/js/main.c4f6d6b3.chunk.js",
+    "main.js.map": "/static/js/main.c4f6d6b3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.265781fe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.265781fe.js.map",
+    "static/js/2.f941fb04.chunk.js": "/static/js/2.f941fb04.chunk.js",
+    "static/js/2.f941fb04.chunk.js.map": "/static/js/2.f941fb04.chunk.js.map",
+    "static/js/3.6350329a.chunk.js": "/static/js/3.6350329a.chunk.js",
+    "static/js/3.6350329a.chunk.js.map": "/static/js/3.6350329a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7b5b82e2.chunk.css.map": "/static/css/main.7b5b82e2.chunk.css.map",
+    "static/js/2.f941fb04.chunk.js.LICENSE.txt": "/static/js/2.f941fb04.chunk.js.LICENSE.txt",
+    "static/media/25_07_2020_15_36_38_2021664.f6669766.jpg": "/static/media/25_07_2020_15_36_38_2021664.f6669766.jpg",
+    "static/media/Xv2UsfTDCmqKcUQmaygVRjSqVVZX2S3pKtSvgdwpUGM.19349ed5.jpg": "/static/media/Xv2UsfTDCmqKcUQmaygVRjSqVVZX2S3pKtSvgdwpUGM.19349ed5.jpg",
+    "static/media/ambulance-car-rides-trough-tunnel-260nw-1159851319.794e5ea0.jpg": "/static/media/ambulance-car-rides-trough-tunnel-260nw-1159851319.794e5ea0.jpg",
+    "static/media/cropped_doctor_nurse_healthcare___getty.a0e3fe41.jpg": "/static/media/cropped_doctor_nurse_healthcare___getty.a0e3fe41.jpg",
+    "static/media/doctor1.dddfaa8b.jpg": "/static/media/doctor1.dddfaa8b.jpg",
+    "static/media/doctor2.f2783f6c.jpg": "/static/media/doctor2.f2783f6c.jpg",
+    "static/media/doctor3.14db69c4.jpg": "/static/media/doctor3.14db69c4.jpg",
+    "static/media/faci1.9c69ec8a.jpg": "/static/media/faci1.9c69ec8a.jpg",
+    "static/media/firstd.64fc96a4.jpg": "/static/media/firstd.64fc96a4.jpg",
+    "static/media/hospital1.56630f9d.jpg": "/static/media/hospital1.56630f9d.jpg",
+    "static/media/hospital2.3c3f258a.png": "/static/media/hospital2.3c3f258a.png",
+    "static/media/hospital3.334621de.jpg": "/static/media/hospital3.334621de.jpg",
+    "static/media/largeimage-anais-42.6e29ab63.jpg": "/static/media/largeimage-anais-42.6e29ab63.jpg",
+    "static/media/secondd.eb9dd389.jpg": "/static/media/secondd.eb9dd389.jpg",
+    "static/media/t0rlgz5c1uf31.8c64b52c.png": "/static/media/t0rlgz5c1uf31.8c64b52c.png",
+    "static/media/thirdd.0877aa26.jpg": "/static/media/thirdd.0877aa26.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.265781fe.js",
+    "static/js/2.f941fb04.chunk.js",
+    "static/css/main.7b5b82e2.chunk.css",
+    "static/js/main.c4f6d6b3.chunk.js"
+  ]
+}
